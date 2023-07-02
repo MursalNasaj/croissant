@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: rgb(240, 201, 142);
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p{
+    font-size: 18px;
+    color: gray;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    color: brown;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 15px;
+    width: 400px;
+}
